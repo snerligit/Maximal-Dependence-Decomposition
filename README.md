@@ -1,1 +1,1 @@
-# Maximal-Dependence-Decomposition
+# Methods to predict splice sites and cryptic splice sites
